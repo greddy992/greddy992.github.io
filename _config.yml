@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gautam Reddy / Site Title"
+title                    : "Gautam Reddy"
 title_separator          : "-"
 name                     : &name "Gautam Reddy"
 description              : &description "personal description"
