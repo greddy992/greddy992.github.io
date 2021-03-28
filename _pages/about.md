@@ -29,5 +29,5 @@ In another line of research, we worked on the question of how olfactory receptor
 
 Statistical physics of phenotypic evolution
 ------
-Recently, I have worked on the mechanisms behind predictable phenotypic evolution, specifically to explain patterns of diminishing-returns and increasing-costs epistasis observed in microbial genetics experiments. I developed a new Fourier analysis-based framework to analyze the role of epistasis on historical contingency and showed that diminishing-returns and increasing-costs are generic consequences of widespread epistatic interactions. I proposed a fitness landscape model to show that phenotypic evolution can be simple and predictable even if the underlying trait is complex. 
+Recently, I've focused on the mechanisms behind predictable phenotypic evolution, specifically to explain patterns of diminishing-returns and increasing-costs epistasis observed in microbial genetics experiments. We developed a new Fourier analysis-based framework to analyze the role of epistasis on historical contingency and showed that diminishing-returns and increasing-costs are generic consequences of widespread epistatic interactions. We proposed a fitness landscape model to show that phenotypic evolution can be simple and predictable even if the underlying trait is complex. 
 
